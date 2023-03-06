@@ -1,3 +1,4 @@
 print("hello all")
-a = 10
+
+a = 73
 b = 0
